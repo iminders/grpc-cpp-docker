@@ -6,3 +6,7 @@ serv:
 
 client:
 	python3 client.py
+
+
+build:
+	docker build -t aiminders/cpp-grpc-demo:latest .
