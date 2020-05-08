@@ -1,3 +1,4 @@
+![Docker](https://github.com/iminders/grpc-cpp-docker/workflows/Docker/badge.svg)
 # Using Docker to build and deploy a C++ gRPC service
 
 This sample demonstrates how to create a basic gRPC service in C++ and build it
